@@ -8,3 +8,6 @@ My contribution towards this project is the addition of snap fits to secure the 
 
 ### CHARYBDIS MINI SNAP FIT CASE (RIGHT)
 <img src="images/CMini_v1_v11_snap_fit.jpeg" width="1500">
+
+### CHARYBDIS NANO SNAP FIT CASE (RIGHT)
+<img src="images/charybdisnano_v2_v187_snap_fit.jpeg" width="1500">
